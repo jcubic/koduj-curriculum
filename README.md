@@ -9,6 +9,8 @@ I'm in a process of writing down each idea for the new Curriculum, I plan to pub
 
 The notes will be in form of Markdown files, I probbaly use some tool to generate PDF files that I will use during the course. I may also generate HTML files and publish it somewhere (e.g. GitHub pages or using GitBookor something similar).
 
+The Curriculum will not be for learners but for teachers. But if some teacher will want to create version for learners he will be able to do that since the text is released under open license.
+
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
