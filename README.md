@@ -1,4 +1,4 @@
-# programming-curriculum
+# Programming Curriculum
 Curriculum for teaching programming using JavaScript and p5.js library
 
 ## Status
