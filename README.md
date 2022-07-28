@@ -1,4 +1,11 @@
-# Programming Curriculum
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/jcubic/koduj-curriculum/blob/master/assets/logo-white.svg?raw=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/jcubic/koduj-curriculum/blob/master/assets/logo-black.svg?raw=true">
+    <img alt="Koduj Programming Curriculum logo" src="https://github.com/jcubic/koduj-curriculum/blob/master/assets/logo-black.svg?raw=true">
+  </picture>
+</h1>
+
 Curriculum for teaching programming using JavaScript and p5.js library
 
 ## Status
